@@ -7,6 +7,7 @@ Possuo conhecimento em PHP, JavaScript, Node.js e SQL, com ênfase na construç�
 ## 📊 GitHub Stats
 <br>
 PARCIALMENTE INDISPONIVEL
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksantosl&show_icons=true&bg_color=00000000)
 
 <div style="display: inline_block"><br>
