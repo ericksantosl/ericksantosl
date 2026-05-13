@@ -16,3 +16,9 @@ Possuo conhecimento em PHP, JavaScript, Node.js e SQL, com ênfase na construç�
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40">
 </p>
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ericksantosl&show_icons=true&theme=tokyonight)
+
+## Top Langs
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ericksantosl&layout=compact&theme=tokyonight)
