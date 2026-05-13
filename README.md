@@ -18,7 +18,7 @@ Possuo conhecimento em PHP, JavaScript, Node.js e SQL, com ênfase na construç�
 </p>
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ericksantosl&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ericksantosl&show_icons=true&theme=algolia)
 
 ## Top Langs
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ericksantosl&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ericksantosl&layout=compact&theme=algolia)
